@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Downloads/mlops-project/mlruns/0/9ba8f215fc8b4d69bb136305c4c9d7d9/artifacts
+end_time: 1747902443172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ba8f215fc8b4d69bb136305c4c9d7d9
+run_name: clean-midge-78
+run_uuid: 9ba8f215fc8b4d69bb136305c4c9d7d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747902442993
+status: 3
+tags: []
+user_id: PC

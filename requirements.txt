@@ -1,0 +1,9 @@
+dvc
+scikit-learn
+pandas
+numpy
+joblib
+mlflow
+watchdog
+pyyaml
+gradio 
